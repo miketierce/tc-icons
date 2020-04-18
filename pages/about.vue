@@ -1,6 +1,6 @@
 <template>
   <v-col cols="12"
-         class=""
+         class="pa-0 mt-4"
          style="">
     <v-row justify="center"
            style="">
@@ -9,7 +9,7 @@
            alt="Vuetify.js"
            class="mb-5"> -->
       <vuetify-logo />
-      <blockquote class="pa-12 blockquote">
+      <blockquote class="blockquote">
         &#8220;First, solve the problem. Then, write the code.&#8221;
         <footer>
           <small>
